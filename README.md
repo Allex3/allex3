@@ -1,5 +1,5 @@
 # 💫 About me 
-I am just a developer who tries to build stuff, and a CS Student at UBB Cluj
+I like axolotls
 
 
 # Tech Stack
